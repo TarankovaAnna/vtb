@@ -10,5 +10,5 @@
 # mock_test.jmx  
 скрипт нагрузочного скрипта для Jmeter
 
-# https://snapshots.raintank.io/dashboard/snapshot/NuYB0Kt5bfDSBsV04AgfhwSoYR5GabDM  
+### https://snapshots.raintank.io/dashboard/snapshot/NuYB0Kt5bfDSBsV04AgfhwSoYR5GabDM  
 дашборд проведенного нагрузочного теста (Jmeter)  
